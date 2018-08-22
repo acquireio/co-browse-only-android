@@ -1,3 +1,3 @@
 # co-browse-only-android
 Sample app for co-browse only mode Android      
-Our documents are here
+Our documents are [here](https://developers.acquire.io/cobrowse-only-mode)
