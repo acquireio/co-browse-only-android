@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Demo\\CoBrowseOnlyApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "C:\\Demo\\co-browse-only-android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Acquire-Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-rc01.aar\\9d4ff7474799626ea738a4cb3ce8e2c4\\res\\values-pt-rBR\\values-pt-rBR.xml",
