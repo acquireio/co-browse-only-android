@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\234bccaa257beb8af0fe19b638531258\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\9d4ff7474799626ea738a4cb3ce8e2c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2767b7441a11c60bdb109a05d134d57a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:2:1-81:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8a6f2a7ee9d939f3f5892f67289b031\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4712379253835d291cbf7317c6d81223\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ed3ff014db0235278532d24b348254dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2c4d7057f3b347e61286bda979e5cf93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\58ec768378296d96bdbde493d91047ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\051c1a8d6c3d424652961c0726ecba55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\123fa3279fd07de5b6bea16bb7a2c4d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\61ec583daab511d73a37ad0fe03d4e15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\3edee6381fb00efbc42e974d84a0021c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\42da6bb977d4ed3bb1be35d2f57c3bbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\ed433ae0f75ad259b4e7b9ff98f3513f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\b04b81d9a3e117fe8938a58073d5667a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\a6d2a8468f0fce4c870d6eaf33192cc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\19aeffdf510d081225bfe1739f0df216\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\0f01d1e0ce00fbeafe34692b506917c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\f53177ecb0b5b09affcf012c48faa88f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\d2f84069f92189a5063f6d13436d1bdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\590c89a4fd820eaff72a746a5d0133ab\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\fa3cd6e36cefe677211ef72d4f7375fa\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\f906b66beabc46783b1d501d40f4ea55\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6fe58010338ae72bd6d99e43c30c5ed4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b51789d708f022689b7cb3ee1843f902\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\504239db8c782172c1d25b5fd6ec85aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\c153febd0d1ca6616f63e694336becd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\ca79e0624ba9d3d20d3839b0c7cfea70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\24587d8d8bd136aa6d380be0fffe846c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9446f1a0a1c4144f7c198f9a00fb9bf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\4cdb7a8c28cdc6dcf19506e472511a3b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2767b7441a11c60bdb109a05d134d57a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2767b7441a11c60bdb109a05d134d57a\AndroidManifest.xml:9:5-20
+MERGED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:41:5-79:19
+MERGED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:41:5-79:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\590c89a4fd820eaff72a746a5d0133ab\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\590c89a4fd820eaff72a746a5d0133ab\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\fa3cd6e36cefe677211ef72d4f7375fa\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\fa3cd6e36cefe677211ef72d4f7375fa\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\590c89a4fd820eaff72a746a5d0133ab\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:9:9-41
+	android:hardwareAccelerated
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:42:9-43
+	android:roundIcon
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:10:9-54
+	android:largeHeap
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:43:9-33
+	android:icon
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:6:9-30
+activity#com.example.acquire_android.cobrowseonlyapp.MainActivity
+ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\234bccaa257beb8af0fe19b638531258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\234bccaa257beb8af0fe19b638531258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\9d4ff7474799626ea738a4cb3ce8e2c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc01.aar\9d4ff7474799626ea738a4cb3ce8e2c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2767b7441a11c60bdb109a05d134d57a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2767b7441a11c60bdb109a05d134d57a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8a6f2a7ee9d939f3f5892f67289b031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e8a6f2a7ee9d939f3f5892f67289b031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4712379253835d291cbf7317c6d81223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4712379253835d291cbf7317c6d81223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ed3ff014db0235278532d24b348254dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ed3ff014db0235278532d24b348254dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2c4d7057f3b347e61286bda979e5cf93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\2c4d7057f3b347e61286bda979e5cf93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\58ec768378296d96bdbde493d91047ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc01.aar\58ec768378296d96bdbde493d91047ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\051c1a8d6c3d424652961c0726ecba55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc01.aar\051c1a8d6c3d424652961c0726ecba55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\123fa3279fd07de5b6bea16bb7a2c4d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc01.aar\123fa3279fd07de5b6bea16bb7a2c4d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\61ec583daab511d73a37ad0fe03d4e15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc01.aar\61ec583daab511d73a37ad0fe03d4e15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\3edee6381fb00efbc42e974d84a0021c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc01.aar\3edee6381fb00efbc42e974d84a0021c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\42da6bb977d4ed3bb1be35d2f57c3bbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc01.aar\42da6bb977d4ed3bb1be35d2f57c3bbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\ed433ae0f75ad259b4e7b9ff98f3513f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc01.aar\ed433ae0f75ad259b4e7b9ff98f3513f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\b04b81d9a3e117fe8938a58073d5667a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc01.aar\b04b81d9a3e117fe8938a58073d5667a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\a6d2a8468f0fce4c870d6eaf33192cc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc01.aar\a6d2a8468f0fce4c870d6eaf33192cc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\19aeffdf510d081225bfe1739f0df216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc01.aar\19aeffdf510d081225bfe1739f0df216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\0f01d1e0ce00fbeafe34692b506917c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc01.aar\0f01d1e0ce00fbeafe34692b506917c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\f53177ecb0b5b09affcf012c48faa88f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc01.aar\f53177ecb0b5b09affcf012c48faa88f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\d2f84069f92189a5063f6d13436d1bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc01.aar\d2f84069f92189a5063f6d13436d1bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\590c89a4fd820eaff72a746a5d0133ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc01.aar\590c89a4fd820eaff72a746a5d0133ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\fa3cd6e36cefe677211ef72d4f7375fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc01.aar\fa3cd6e36cefe677211ef72d4f7375fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\f906b66beabc46783b1d501d40f4ea55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc01.aar\f906b66beabc46783b1d501d40f4ea55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6fe58010338ae72bd6d99e43c30c5ed4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6fe58010338ae72bd6d99e43c30c5ed4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b51789d708f022689b7cb3ee1843f902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b51789d708f022689b7cb3ee1843f902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\504239db8c782172c1d25b5fd6ec85aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\504239db8c782172c1d25b5fd6ec85aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\c153febd0d1ca6616f63e694336becd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc01.aar\c153febd0d1ca6616f63e694336becd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\ca79e0624ba9d3d20d3839b0c7cfea70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc01.aar\ca79e0624ba9d3d20d3839b0c7cfea70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\24587d8d8bd136aa6d380be0fffe846c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc01.aar\24587d8d8bd136aa6d380be0fffe846c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9446f1a0a1c4144f7c198f9a00fb9bf2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9446f1a0a1c4144f7c198f9a00fb9bf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\4cdb7a8c28cdc6dcf19506e472511a3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc01.aar\4cdb7a8c28cdc6dcf19506e472511a3b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Demo\CoBrowseOnlyApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:12:22-64
+activity#com.acquireio.sdk.activities.AQR_ChatListActivity
+ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:52:9-55:52
+	android:screenOrientation
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:55:13-49
+	android:launchMode
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:54:13-48
+	android:name
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:53:13-77
+activity#com.acquireio.sdk.activities.AQR_ChatActivity
+ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:56:9-59:52
+	android:screenOrientation
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:59:13-49
+	android:launchMode
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:58:13-48
+	android:name
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:57:13-73
+service#com.acquireio.socket.SocketBackgroundService
+ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:61:9-63:40
+	android:exported
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:62:13-72
+activity#com.acquireio.sdk.activities.CobOnlyActivity
+ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:74:9-78:52
+	android:screenOrientation
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:78:13-49
+	android:excludeFromRecents
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:76:13-46
+	android:launchMode
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:77:13-48
+	android:name
+		ADDED from [com.acquireio:cobrowse_only:1.1] C:\Users\Acquire-Android\.gradle\caches\transforms-1\files-1.1\cobrowse_only-1.1.aar\54c3e9b85abe98e1c7f25b56e52203e5\AndroidManifest.xml:75:13-72
