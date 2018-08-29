@@ -76,10 +76,9 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/acquire_android/cobrowseonly/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+            <state relative-caret-position="255">
+              <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
               <folding>
-                <element signature="e#803#804#0" expanded="true" />
                 <element signature="e#864#865#0" expanded="true" />
                 <element signature="e#1165#1166#0" expanded="true" />
                 <element signature="e#1224#1225#0" expanded="true" />
@@ -2482,10 +2481,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/acquire_android/cobrowseonly/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        <state relative-caret-position="255">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
           <folding>
-            <element signature="e#803#804#0" expanded="true" />
             <element signature="e#864#865#0" expanded="true" />
             <element signature="e#1165#1166#0" expanded="true" />
             <element signature="e#1224#1225#0" expanded="true" />
