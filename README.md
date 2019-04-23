@@ -15,7 +15,7 @@ Sample app for co-browse only mode Android
 
 Add the following dependency to your app's `build.gradle` file:
 ```groovy
-implementation 'com.acquireio:cobrowse_only:1.+'*
+implementation 'com.acquireio:cobrowse_only:2.+'*
 implementation 'com.android.support:design:27.1.1'
 implementation 'com.android.support:appcompat-v7:28.0.0-rc01'
 implementation('io.socket:socket.io-client:1.0.0') {
